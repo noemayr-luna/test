@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.bg1 {
+    background-image: url("meetme.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.bg2 {
+    background-image: url("hyperarea.png");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    padding: 30px;
+    box-sizing: border-box;
+}
